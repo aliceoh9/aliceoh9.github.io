@@ -1,17 +1,13 @@
-# Title
+# CS492 ML for NLP Fall 2019
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
-
-### Why you should know this (optional)
-
-Explain why students should care to learn the material presented in this class.
+This course will cover important problems and concepts in natural language processing and the machine learning models used in those problems.
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+- [Prerequisite 1](Good programming skills)
+- [Prerequisite 2](Basic understanding of ML)
 
 ## Learning Outcomes
 
