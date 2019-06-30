@@ -6,8 +6,8 @@ This course will cover important problems and concepts in natural language proce
 
 ## Prerequisites:  
 
-- [Prerequisite 1](Good programming skills)
-- [Prerequisite 2](Basic understanding of ML)
+1. Good programming skills in Python.
+2. Basic understanding of ML concepts. You do not need to have taken CS376 or any other undergraduate ML course, but you need to know concepts such as train vs test data, clustering vs classification, accuracy/precision/recall, overfitting, and basic classification models such as SVM, random forest, etc.
 
 ## Learning Outcomes
 
@@ -23,36 +23,7 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
-
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JULY 7]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
-
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
-**Course Dates:** Wednesday, July 8 – Wednesday, August 14, 2019 (6 weeks)
-
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (12 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, July 8                          | [Lesson 1] |
-|  2 |   Wed, July 10                            | [Lesson 2] |
-|  3 |   Mon, July 15                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |   Wed, July 17                            | [Lesson 5] |
-|  5 |   Mon, July 22                         | [Lesson 6] |
-|  6 |   Wed, July 24                            | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |   Mon, July 29                         | [Lesson 9] |
-|  8 |   Wed, July 31                            | [Lesson 10] |
-| 9 |   Mon, August 5                           | [Lesson 11] |
-| 10 |   Wed, August 7                             | [Lesson 12] |  
-| 11 |   Mon, August 12                         | [Lesson 13]|
-| 12 |   Wed, August 14                         | Final Exam/Presentations  |
-
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
-**Course Dates:** Tuesday, July 9 – Thursday, August 15, 2019 (6 weeks)
+**Course Dates:** Tuesday, Aug 9 – Thursday, August 15, 2019 (6 weeks)
 
 **Class Times:** Tuesday and Thursday at 3:30–5:20pm (12 class sessions)
 
