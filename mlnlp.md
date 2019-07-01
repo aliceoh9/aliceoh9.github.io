@@ -44,7 +44,7 @@ By the end of the course, you will be able to
 | 13 |   Tue/Thurs Nov 26/28                     | Project Paper Presentations  |
 | 14 |   Tue/Thurs Dec 3/5                     | Project Paper Presentations  |
 | 15 |   Tue/Thurs Dec 10/12                     | Project Presentations  |
-| 16 |   Tue/Thurs Dec 17/19                    | Final Report Due |
+| 16 |   Tue/Thurs Dec 17/19                    | Project Report Due |
 
 
 ## Class Assignments
