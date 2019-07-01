@@ -4,14 +4,16 @@
 
 This course will cover important problems and concepts in natural language processing and the machine learning models used in those problems.
 
-## Prerequisites:  
+## Prerequisites  
 
 1. Good programming skills in Python.
 2. Basic understanding of ML concepts. You do not need to have taken CS376 or any other undergraduate ML course, but you need to know concepts such as train vs test data, clustering vs classification, accuracy/precision/recall, overfitting, and basic classification models such as SVM, random forest, etc.
 
-## Learning Goals
+## Materials
+1. [Jacob Eisenstein, Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+2. Recent papers from ACL, EMNLP, NAACL, TACL, etc.
 
-**[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
+## Course Goals
 
 By the end of the course, you will be able to
 
