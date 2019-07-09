@@ -4,9 +4,9 @@ Welcome!
 
 ## Teaching Staff
 
-Alice Oh, alice.oh@kaist.edu
-Dongkwan Kim, dongkwan.kim@kaist.ac.kr
-Changmin Lee, changmin.lee@kaist.ac.kr
+- Alice Oh, alice.oh@kaist.edu
+- Dongkwan Kim, dongkwan.kim@kaist.ac.kr
+- Changmin Lee, changmin.lee@kaist.ac.kr
 
 ## Important Note about Registering for this Course
 
