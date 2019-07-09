@@ -8,10 +8,10 @@
 
 ## Important Notes about Registering for this Course
 
-1. If you are lucky enough to be registered and selected for this class, PLEASE make sure you will not drop this class after it starts. If you are thinking of just "shopping around" to see what this course is like, please DROP IT NOW, so that students who really want to take this course can register. There were more than 90 students signed up for 40 slots, and dozens of students emailed me that they could not register because they have taken CS492 before. So please give up your seat if you are not serious about this course.
-1. If you have emailed me about not being able to register for this class because you have taken another CS492 before, you will be entered into a lottery and randomly picked (about 5 students) to be added into this class. You will receive email whether you have been selected this way by July 12. If you are selected, you must come to the first class to get your form signed.
-1. If you registered for this class but did not get selected, I cannot add you. There are too many students asking to be added. Hopefully some students will be dropping, so you can check frequently to see if there is an available slot.
-1. This course will be offered again in Fall 2020, probably as a regular course. At that time, we hope to be able to accommodate more students (current limit is 40). So please be patient if you really want to take this course.
+- If you are lucky enough to be registered and selected for this class, PLEASE make sure you will not drop this class after it starts. If you are thinking of just "shopping around" to see what this course is like, please DROP IT NOW, so that students who really want to take this course can register. There were more than 90 students signed up for 40 slots, and dozens of students emailed me that they could not register because they have taken CS492 before. So please give up your seat if you are not serious about this course.
+- If you have emailed me about not being able to register for this class because you have taken another CS492 before, you will be entered into a lottery and randomly picked (about 5 students) to be added into this class. You will receive email whether you have been selected this way by July 12. If you are selected, you must come to the first class to get your form signed.
+- If you registered for this class but did not get selected, I cannot add you. There are too many students asking to be added. Hopefully some students will be dropping, so you can check frequently to see if there is an available slot.
+- This course will be offered again in Fall 2020, probably as a regular course. At that time, we hope to be able to accommodate more students (current limit is 40). So please be patient if you really want to take this course.
 
 ## Course Description
 
@@ -19,9 +19,9 @@ This course will cover important problems and concepts in natural language proce
 
 ## Prerequisites  
 
-1. You need to have good programming skills in Python.
-1. You need to have basic understanding of ML concepts. You do not need to have taken CS376 or any other undergraduate ML course, but you need to know concepts such as train vs test data, clustering vs classification, accuracy/precision/recall, overfitting, and basic classification models such as SVM, random forest, etc. You can learn these concepts as we go along, but you may find some lectures and papers difficult to understand if you do not put in extra time to learn these concepts.
-1. We will use Tensorflow. You may start with little prior experience and learn Tensorflow during this semester, but that will require extra time and effort.
+- You need to have good programming skills in Python.
+- You need to have basic understanding of ML concepts. You do not need to have taken CS376 or any other undergraduate ML course, but you need to know concepts such as train vs test data, clustering vs classification, accuracy/precision/recall, overfitting, and basic classification models such as SVM, random forest, etc. You can learn these concepts as we go along, but you may find some lectures and papers difficult to understand if you do not put in extra time to learn these concepts.
+- We will use Tensorflow. You may start with little prior experience and learn Tensorflow during this semester, but that will require extra time and effort.
 
 ## Materials
 1. [Jacob Eisenstein, Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
