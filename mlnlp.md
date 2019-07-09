@@ -6,13 +6,14 @@ This course will cover important problems and concepts in natural language proce
 
 ## Prerequisites  
 
-1. Good programming skills in Python.
-2. Basic understanding of ML concepts. You do not need to have taken CS376 or any other undergraduate ML course, but you need to know concepts such as train vs test data, clustering vs classification, accuracy/precision/recall, overfitting, and basic classification models such as SVM, random forest, etc.
+1. You need to have good programming skills in Python.
+1. You need to have basic understanding of ML concepts. You do not need to have taken CS376 or any other undergraduate ML course, but you need to know concepts such as train vs test data, clustering vs classification, accuracy/precision/recall, overfitting, and basic classification models such as SVM, random forest, etc. You can learn these concepts as we go along, but you may find some lectures and papers difficult to understand if you do not put in extra time to learn these concepts.
+1. We will use Tensorflow. You may start with little prior experience and learn Tensorflow during this semester, but that will require extra time and effort.
 
 ## Materials
 1. [Jacob Eisenstein, Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-1. Recent papers from [ACL, EMNLP, NAACL, TACL, etc.] (https://aclweb.org/anthology/)
-1. (Optional Reference) [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition] (https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+1. Recent papers from [ACL, EMNLP, NAACL, TACL, etc.](https://aclweb.org/anthology/)
+1. (Optional Reference) [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 
 ## Course Goals
 
