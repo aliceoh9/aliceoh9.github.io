@@ -4,7 +4,7 @@
 
 1. If you are lucky enough to be registered and selected for this class, PLEASE make sure you will not drop this class after it starts. If you are thinking of just "shopping around" to see what this course is like, please DROP IT NOW, so that students who really want to take this course can register. There were more than 90 students signed up for 40 slots, and dozens of students emailed me that they could not register because they have taken CS492 before. So please give up your seat if you are not serious about this course.
 1. If you have emailed me about not being able to register for this class because you have taken another CS492 before, you will be entered into a lottery and randomly picked (about 5 students) to be added into this class. You will receive email whether you have been selected this way by July 12. If you are selected, you must come to the first class to get your form signed.
-1. If you registered for this class but did not get selected, I cannot add you. There are too many students asking to be added.
+1. If you registered for this class but did not get selected, I cannot add you. There are too many students asking to be added. Hopefully some students will be dropping, so you can check frequently to see if there is an available slot.
 1. This course will be offered again in Fall 2020, probably as a regular course. At that time, we hope to be able to accommodate more students (current limit is 40). So please be patient if you really want to take this course.
 
 ## Course Description
