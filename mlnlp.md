@@ -11,7 +11,8 @@ This course will cover important problems and concepts in natural language proce
 
 ## Materials
 1. [Jacob Eisenstein, Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-2. Recent papers from ACL, EMNLP, NAACL, TACL, etc.
+1. Recent papers from [ACL, EMNLP, NAACL, TACL, etc.] (https://aclweb.org/anthology/)
+1. (Optional Reference) [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition] (https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 
 ## Course Goals
 
