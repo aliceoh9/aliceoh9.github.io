@@ -5,6 +5,7 @@
 - Alice Oh, alice.oh@kaist.edu
 - Dongkwan Kim, dongkwan.kim@kaist.ac.kr
 - Changmin Lee, changmin.lee@kaist.ac.kr
+- **When you send emails, please email to all TAs and prof. Oh.**
 
 ## Important Notes about Registering for this Course
 
