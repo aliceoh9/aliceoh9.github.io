@@ -48,17 +48,17 @@ By the end of the course, you will be able to
 | Week |          Dates         |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Tue/Thurs Sept 3/5                         | Introduction / Math Review |
-|  2 |   Tue/Thurs Sept 10/12                    | Linear Classifiers / No Class on Sept 12 (Holiday) |
+|  2 |   Tue/Thurs Sept 10/12                    | Word Vectors & Distributed Semantics / No Class on Sept 12 (Holiday) |
 |  3 |   Tue/Thurs Sept 17/19                        | Text Classification |
-|  4 |   Tue/Thurs Sept 24/26                     | Language Models |
+|  4 |   Tue/Thurs Sept 24/26                     | Text Classification |
 |  5 |   Tue/Thurs Oct 1/3                      | Sequence Models / No Class on Oct 3 (Holiday)|
 |  6 |   Tue/Thurs Oct 8/10                     | Project Proposals |
-|  7 |   Tue/Thurs Oct 15/17                         | Distributed Semantics |
+|  7 |   Tue/Thurs Oct 15/17                         | Language Models |
 | 8 |   Tue/Thurs Oct 22/24                        | Midterm Exam |
-| 9 |   Tue/Thurs Oct 29/31                          | Information Extraction & Question Answering |  
+| 9 |   Tue/Thurs Oct 29/31                          | Sequence Models |  
 | 10 |   Tue/Thurs Nov 5/7                      | Machine Translation & Multilinguality |
-| 11 |   Tue/Thurs Nov 12/14                     | Language Generation & Dialogs |
-| 12 |   Tue/Thurs Nov 19/21                     | Project Paper Presentations |
+| 11 |   Tue/Thurs Nov 12/14                     | Neural Language Models (ELMo, BERT, XLNet) |
+| 12 |   Tue/Thurs Nov 19/21                     | NLP Applications (QA, Dialogue, Information Extraction, etc) |
 | 13 |   Tue/Thurs Nov 26/28                     | Project Paper Presentations  |
 | 14 |   Tue/Thurs Dec 3/5                     | Project Paper Presentations  |
 | 15 |   Tue/Thurs Dec 10/12                     | Project Presentations  |
@@ -76,8 +76,12 @@ You will form teams of two, and as a team, pick one paper from ACL, EMNLP, NAACL
 ## Evaluation
 Your grade will be a combination of the following:
 
-- Participation and attendance 
-- Midterm exam
-- Paper presentation
-- Homework assignments
-- Team Project
+- Participation and attendance 10%
+- Midterm exam 25%
+- In-class exercises 15%
+- Team Project 50% 
+  - Proposal 5%
+  - Paper presentation 10%
+  - Final presentation 20%
+  - Written report 10%
+  - Teamwork 5%
