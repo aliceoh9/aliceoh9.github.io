@@ -49,7 +49,7 @@ By the end of the course, you will be able to
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Tue/Thurs Sept 3/5                         | Introduction / Math Review |
 |  2 |   Tue/Thurs Sept 10/12                    | Word Vectors & Distributed Semantics / No Class on Sept 12 (Holiday) |
-|  3 |   Tue/Thurs Sept 17/19                        | Text Classification |
+|  3 |   Tue/Thurs Sept 17/19                        | Word Vectors / Text Classification |
 |  4 |   Tue/Thurs Sept 24/26                     | Text Classification |
 |  5 |   Tue/Thurs Oct 1/3                      | Sequence Models / No Class on Oct 3 (Holiday)|
 |  6 |   Tue/Thurs Oct 8/10                     | Project Proposals |
