@@ -65,11 +65,7 @@ By the end of the course, you will be able to
 | 16 |   Tue/Thurs Dec 17/19                    | Project Report Due | None |
 
 
-## Class Assignments
-
-TBD 
-
-### Team Projects
+## Team Projects
 
 You will form teams of two, and as a team, pick one paper from ACL, EMNLP, NAACL, or TACL, published in 2016 to 2019, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
 
@@ -85,3 +81,74 @@ Your grade will be a combination of the following:
   - Final presentation 20%
   - Written report 10%
   - Teamwork 5%
+  
+## Paper List for Team Projects (Can be revised during the first two weeks)
+
+Document Classification
+
+- Convolutional Neural Networks for Sentence Classification (EMNLP 2014)
+- Character-level Convolutional Networks for Text Classification (NIPS 2015)
+- Hierarchical Attention Networks for Document Classification (NAACL 2016) 
+
+Language Modeling & Transfer Learning
+
+- Character-Aware Neural Language Models (AAAI 2016)
+- Regularizing and Optimizing LSTM Language Models (ICLR 2018)
+- Deep Contextualized Word Representations (NAACL 2018)
+- Universal Language Model Fine-tuning for Text Classification (ACL 2018)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
+
+Word, Sentence, and Document Embedding
+
+- Enriching Word Vectors with Subword Information (TACL 2017)
+- Subword-level Word Vector Representations for Korean (ACL 2018)
+
+Machine Translation / Multilinguality
+
+- Convolutional Sequence to Sequence Learning (ICML 2017)
+- Attention Is All You Need (NIPS 2017)
+- Word Translation Without Parallel Data (ICLR 2018)
+- Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach (ACL 2018)
+- Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification (EMNLP 2018)
+
+Conversation Modeling / Response Generation
+
+- Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models (AAAI 2016)
+- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI 2017)
+- A Hierarchical Latent Structure for Variational Conversation Modeling (NAACL 2018)
+- DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder (ICLR 2019) 
+
+Question & Answering / Summarization
+
+- Get To The Point: Summarization with Pointer-Generator Networks (ACL 2017)
+- Inferential Machine Comprehension: Answering Questions by Recursively Deducing the Evidence Chain from Text (ACL 2019)
+- Unsupervised Question Answering by Cloze Translation (ACL 2019)
+- Entity-Relation Extraction as Multi-Turn Question Answering (ACL 2019)
+- RankQA: Neural Question Answering with Answer Re-Ranking (ACL 2019)
+- Efficient and Robust Question Answering from Minimal Context over Documents (ACL 2018)
+- CNN for Text-Based Multiple Choice Question Answering (ACL 2018)
+- An End-to-End model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge (ACL 2017)
+
+Computational Social Science
+
+- Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues (NAACL 2019)
+- Conversational Decision Making Model for Predicting King’s Decision in the Annals of the Joseon Dynasty (EMNLP 2018)
+- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion, and sarcasm (EMNLP 2017)
+- Conversations Gone Awry: Detecting Early Signs of Conversational Failure (ACL 2018)
+- Detecting Incongruity Between News Headline and Body Text via a Deep Hierarchical Encoder (AAAI 2019)
+- Word embeddings quantify 100 years of gender and ethnic stereotypes (PNAS 2018)
+- Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change (ACL 2016)
+- Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints (EMNLP 2017)
+- DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning (EMNLP 2018)
+- Multi-agent cooperation and the emergence of (natural) language (ICLR 2017)
+- Rumor Detection on Twitter with Tree-structured Recursive Neural Networks (ACL 2018)
+- Document-level Sentiment Inference with Social, Faction, and Discourse Context (ACL 2016)
+
+Language Generation
+
+- A Context-aware Convolutional Natural Language Generation model for Dialogue Systems (SIGDIAL 2018)
+- Toward Controlled Generation of Text (ICML 2017)
+- Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention (ACL 2019)
+- Retrieval-Enhanced Adversarial Training for Neural Response Generation (ACL 2019)
+- A Conditional Variational Framework for Dialog Generation (ACL 2017)
+
