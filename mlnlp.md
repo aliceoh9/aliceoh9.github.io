@@ -52,7 +52,7 @@ By the end of the course, you will be able to
 |  2 |   Tue/Thurs Sept 10/12                    | Word Vectors & Distributed Semantics / No Class on Sept 12 (Holiday) | Discussions |
 |  3 |   Tue/Thurs Sept 17/19                        | Word Vectors / Text Classification | word2vec (Tues) |
 |  4 |   Tue/Thurs Sept 24/26                     | Text Classification | BOW & Logistic Regression (Tues) |
-|  5 |   Tue/Thurs Oct 1/3                      | Sequence Models / No Class on Oct 3 (Holiday)| Naive Bayes (Tues) |
+|  5 |   Tue/Thurs Oct 1/3                      | Text Classification / No Class on Oct 3 (Holiday)| Naive Bayes (Tues) |
 |  6 |   Tue/Thurs Oct 8/10                     | Project Proposal Presentations | Proposal Evaluation |
 |  7 |   Tue/Thurs Oct 15/17                         | Language Models | N-grams (Thurs) |
 | 8 |   Tue/Thurs Oct 22/24                        | Midterm Exam |
