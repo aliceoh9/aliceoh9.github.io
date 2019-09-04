@@ -23,6 +23,7 @@ This course will cover important problems and concepts in natural language proce
 - You need to have good programming skills in Python.
 - You need to have basic understanding of ML concepts. You do not need to have taken CS376 or any other undergraduate ML course, but you need to know concepts such as train vs test data, clustering vs classification, accuracy/precision/recall, overfitting, and basic classification models such as SVM, random forest, etc. You can learn these concepts as we go along, but you may find some lectures and papers difficult to understand if you do not put in extra time to learn these concepts.
 - We will use [NumPy](https://numpy.org/)/[TensorFlow](https://tensorflow.org) in in-class exercises. You may start with little prior experience and learn these libraries during this semester, but that will require extra time and effort. Note that we do not provide any lectures about learning libraries.
+- The topic of the in-class exercise in week 10 is Korean NLP. You do not need to be fluent in Korean, but you need to know what the Korean alphabet (Hangeul) is and how they combine to form syllables and words.
 
 ## Materials
 1. [Jacob Eisenstein, Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
