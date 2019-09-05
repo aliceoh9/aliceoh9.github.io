@@ -68,7 +68,7 @@ By the end of the course, you will be able to
 
 ## Team Projects
 
-You will form teams of two, and as a team, pick one paper from ACL, EMNLP, NAACL, or TACL, published in 2016 to 2019, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
+You will form teams of three, and as a team, pick one paper from ACL, EMNLP, NAACL, or TACL, published in 2016 to 2019, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
 
 ## Evaluation
 Your grade will be a combination of the following:
