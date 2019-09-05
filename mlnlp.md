@@ -81,7 +81,7 @@ Your grade will be a combination of the following:
   - Paper presentation 10%
   - Final presentation 20%
   - Written report 10%
-  - Teamwork 5%
+  - Teamwork 5% (Note that any team may get up to -25% if there is a serious problem with teamwork)
   
 ## Paper List for Team Projects (Can be revised during the first two weeks)
 
