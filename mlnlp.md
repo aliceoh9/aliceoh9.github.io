@@ -5,7 +5,7 @@
 - Alice Oh, alice.oh@kaist.edu
 - Dongkwan Kim, dongkwan.kim@kaist.ac.kr
 - Changmin Lee, changmin.lee@kaist.ac.kr
-- **When you send emails, please email to all TAs and prof. Oh.**
+- **When you send emails, please email to all TAs and prof. Oh. and put "CS492" to the title. (e.g., [CS492] Do we have a class on thanksgiving day?)**
 
 ## Important Notes about Registering for this Course
 
