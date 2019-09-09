@@ -112,6 +112,12 @@ Machine Translation / Multilinguality
 - Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach (ACL 2018)
 - Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification (EMNLP 2018)
 - Non-Autoregressive Neural Machine Translation (ICLR 2018)
+- The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation (ACL 2018)
+- Depth Growing for Neural Machine Translation (ACL 2019)
+- Pay Less Attention with Lightweight and Dynamic Convolutions (ICLR 2019)
+- Improving Neural Language Modeling via Adversarial Training (ICML 2019)
+- Synchronous Bidirectional Neural Machine Translation (TACL 2019)
+- Self-Attention with Relative Position Representations (NAACL 2018)
 
 Conversation Modeling / Response Generation
 
