@@ -111,6 +111,7 @@ Machine Translation / Multilinguality
 - Word Translation Without Parallel Data (ICLR 2018)
 - Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach (ACL 2018)
 - Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification (EMNLP 2018)
+- Non-Autoregressive Neural Machine Translation (ICLR 2018)
 
 Conversation Modeling / Response Generation
 
