@@ -118,6 +118,18 @@ Conversation Modeling / Response Generation
 - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI 2017)
 - A Hierarchical Latent Structure for Variational Conversation Modeling (NAACL 2018)
 - DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder (ICLR 2019) 
+- Learning from Dialogue after Deployment: Feed Yourself, Chatbot! (ACL 2019)
+- Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model (ACL 2019)
+- ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation (ACL 2019)
+- Retrieval-Enhanced Adversarial Training for Neural Response Generation (ACL 2019)
+- Proactive Human-Machine Conversation with Explicit Conversation Goal (ACL 2019)
+- Learning to Abstract for Memory-augmented Conversational Response Generation (ACL 2019)
+- One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues (ACL 2019)
+- Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment
+- Neural Response Generation with Meta-words (ACL 2019)
+- Improving Neural Conversational Models with Entropy-Based Data Filtering (ACL 2019)
+- Domain Adaptive Dialog Generation via Meta Learning (ACL 2019)
+- Self-Supervised Dialogue Learning (ACL 2019)
 
 Question & Answering / Summarization
 
@@ -129,6 +141,21 @@ Question & Answering / Summarization
 - Efficient and Robust Question Answering from Minimal Context over Documents (ACL 2018)
 - CNN for Text-Based Multiple Choice Question Answering (ACL 2018)
 - An End-to-End model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge (ACL 2017)
+- Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension (ACL 2019)
+- Unsupervised Question Answering by Close Translation (ACL 2019)
+- Multi-Hop Paragraph Retrieval for Open-Domain Question Answering (ACL 2019)
+- Generating Question-Answer Hierarchies (ACL 2019)
+- Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction (ACL 2019)
+- Entity-Relation Extraction as Multi-Turn Question Answering (ACL 2019)
+- Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data (ACL 2019)
+- Improving the Robustness of Question Answering Systems to Question Paraphrasing (ACL 2019)
+- RankQA: Neural Question Answering with Answer Re-Ranking (ACL 2019)
+- Latent Retrieval for Weakly Supervised Open Domain Question Answering (ACL 2019)
+- Careful Selection of Knowledge to solve Open Book Question Answering (ACL 2019)
+- Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering (ACL 2019)
+- Interpretable Question Answering on Knowledge Bases and Text (ACL 2019)
+- NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language (ACL 2019)
+- Open-Domain Why-Question Answering with Adversarial Learning to Encode Answer Texts (ACL 2019)
 
 Computational Social Science
 
