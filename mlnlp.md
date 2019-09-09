@@ -179,4 +179,9 @@ Language Generation
 - Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention (ACL 2019)
 - Retrieval-Enhanced Adversarial Training for Neural Response Generation (ACL 2019)
 - A Conditional Variational Framework for Dialog Generation (ACL 2017)
-
+- Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling (ACL 2019)
+- Cross-Lingual Training for Automatic Question Generation (ACL 2019)
+- Syntax-Infused Variational Autoencoder for Text Generation (ACL 2019)
+- Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models (ACL 2019)
+- Reinforced Dynamic Reasoning for Conversational Question Generation (ACL 2019)
+- Generating Sentences from Disentangled Syntactic and Semantic Spaces (ACL 2019)
