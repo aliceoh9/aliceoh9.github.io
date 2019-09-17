@@ -50,14 +50,14 @@ By the end of the course, you will be able to
 |:-----:|:----------------------:|:---------------------------------------:|:------------------------------:|
 |  1 |   Tue/Thurs Sept 3/5                         | Introduction / Math Review | Discussions |
 |  2 |   Tue/Thurs Sept 10/12                    | Word Vectors & Distributed Semantics / No Class on Sept 12 (Holiday) | Discussions |
-|  3 |   Tue/Thurs Sept 17/19                        | Word Vectors / Text Classification | word2vec (Tues) |
-|  4 |   Tue/Thurs Sept 24/26                     | Text Classification | BOW & Logistic Regression (Tues) |
-|  5 |   Tue/Thurs Oct 1/3                      | Text Classification / No Class on Oct 3 (Holiday)| Naive Bayes (Tues) |
-|  6 |   Tue/Thurs Oct 8/10                     | Project Proposal Presentations | Proposal Evaluation |
+|  3 |   Tue/Thurs Sept 17/19                        | Word Vectors | word2vec (Tues/Thurs) |
+|  4 |   Tue/Thurs Sept 24/26                     | Text Classification | BOW & Logistic Regression (Thurs) |
+|  5 |   Tue/Thurs Oct 1/3                      | Text Classification / No Class on Oct 3 (Holiday)|  |
+|  6 |   Tue/Thurs Oct 8/10                     | Text Classification / Project Proposal Presentations | Naive Bayes (Tues) |
 |  7 |   Tue/Thurs Oct 15/17                         | Language Models | N-grams (Thurs) |
 | 8 |   Tue/Thurs Oct 22/24                        | Midterm Exam |
 | 9 |   Tue/Thurs Oct 29/31                          | Sequence Models | RNN (Thurs) | 
-| 10 |   Tue/Thurs Nov 5/7                      | Machine Translation & Multilinguality | Korean NLP |
+| 10 |   Tue/Thurs Nov 5/7                      | Machine Translation & Multilinguality | Korean NLP (Thurs) |
 | 11 |   Tue/Thurs Nov 12/14                     | Neural Language Models (ELMo, BERT, XLNet) | Discussions |
 | 12 |   Tue/Thurs Nov 19/21                     | NLP Applications (QA, Dialogue, Information Extraction, etc) | Discussions |
 | 13 |   Tue/Thurs Nov 26/28                     | Project Paper Presentations  | Presentation Evaluation |
