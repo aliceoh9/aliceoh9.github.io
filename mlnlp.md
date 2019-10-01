@@ -60,7 +60,7 @@ By the end of the course, you will be able to
 | 10 |   Tue/Thurs Nov 5/7                      | Machine Translation & Multilinguality | Korean NLP (Thurs) |
 | 11 |   Tue/Thurs Nov 12/14                     | Neural Language Models (ELMo, BERT, XLNet) / NLP Applications (QA, Dialogue, Information Extraction, etc) | Discussions |
 | 12 |   Tue/Thurs Nov 19/21                     | NLP Applications (Tues) / Project Paper Presentations (Thurs) | Presentation Evaluation |
-| 13 |   Tue/Thurs Nov 26/28                     | Project Paper Presentations / No Class on Nov 28 (Freshmen Interview)  | Presentation Evaluation |
+| 13 |   Tue/Thurs Nov 26/28                     | Project Paper Presentations / No Class on Nov 28 (Undergrad Admissions)  | Presentation Evaluation |
 | 14 |   Tue/Thurs Dec 3/5                     | Project Paper Presentations  | Presentation Evaluation |
 | 15 |   Tue/Thurs Dec 10/12                     | Project Presentations  | Presentation Evaluation |
 | 16 |   Tue/Thurs Dec 17/19                    | Project Report Due | None |
