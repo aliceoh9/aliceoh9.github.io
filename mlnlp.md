@@ -62,7 +62,7 @@ By the end of the course, you will be able to
 | 12 |   Tue/Thurs Nov 19/21                     | NLP Applications (QA, Dialogue, Information Extraction, etc) (Tues) / Project Paper Presentations (Thurs) | Presentation Evaluation |
 | 13 |   Tue/Thurs Nov 26/28                     | Project Paper Presentations / No Class on Nov 28 (Undergrad Admissions)  | Presentation Evaluation |
 | 14 |   Tue/Thurs Dec 3/5                     | Project Paper Presentations  | Presentation Evaluation |
-| 15 |   Tue/Thurs Dec 10/12                     | Project Presentations  | Presentation Evaluation |
+| 15 |   Tue/Thurs Dec 10/12                     | Project Poster Presentations (Thurs only)  | Presentation Evaluation |
 | 16 |   Tue/Thurs Dec 17/19                    | Project Report Due | None |
 
 
