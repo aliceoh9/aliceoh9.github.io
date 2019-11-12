@@ -57,9 +57,9 @@ By the end of the course, you will be able to
 |  7 |   Tue/Thurs Oct 15/17                         | Language Models | N-grams (Thurs) |
 | 8 |   Tue/Thurs Oct 22/24                        | Midterm Exam |
 | 9 |   Tue/Thurs Oct 29/31                          | Sequence Models | RNN (Thurs) | 
-| 10 |   Tue/Thurs Nov 5/7                      | Machine Translation & Multilinguality | Korean NLP (Thurs) |
-| 11 |   Tue/Thurs Nov 12/14                     | Neural Language Models (ELMo, BERT, XLNet) / NLP Applications (QA, Dialogue, Information Extraction, etc) | Discussions |
-| 12 |   Tue/Thurs Nov 19/21                     | NLP Applications (Tues) / Project Paper Presentations (Thurs) | Presentation Evaluation |
+| 10 |   Tue/Thurs Nov 5/7                      | Machine Translation (Video Lecture) | Korean NLP (Thurs) |
+| 11 |   Tue/Thurs Nov 12/14                     | Neural Language Models (ELMo, BERT, XLNet) | Korean NLP (Tues) |
+| 12 |   Tue/Thurs Nov 19/21                     | NLP Applications (QA, Dialogue, Information Extraction, etc) (Tues) / Project Paper Presentations (Thurs) | Presentation Evaluation |
 | 13 |   Tue/Thurs Nov 26/28                     | Project Paper Presentations / No Class on Nov 28 (Undergrad Admissions)  | Presentation Evaluation |
 | 14 |   Tue/Thurs Dec 3/5                     | Project Paper Presentations  | Presentation Evaluation |
 | 15 |   Tue/Thurs Dec 10/12                     | Project Presentations  | Presentation Evaluation |
